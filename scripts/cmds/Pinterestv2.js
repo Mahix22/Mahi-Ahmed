@@ -9,13 +9,13 @@ config: {
 
   name: "pinterestv2",
   
-  aliases: ["pin2"],
+  aliases: ["p2"],
 
   version: "1.0.1",
 
   role: 0,
 
-  author: "Kaizenji",
+  author: "MaHi",
 
   longDescription: {en: "search image using pinterest"},
 
